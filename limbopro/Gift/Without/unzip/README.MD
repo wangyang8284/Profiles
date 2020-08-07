@@ -4,6 +4,8 @@
 2. 请务必关注 TG 电报频道：https://t.me/limboprossr 或 Twitter：https://twitter.com/limboprossr
 
 ## 更新说明 
+### 08.08.2020 
+1. 更新 Tiktok 解锁规则； Tiktok v17.2.0 目前可解锁（依然；
 ### 07.01.2020 
 1. Quantumult X 最新版本（v.1.0.12）已完全支持远程脚本，新朋友请直接参阅：https://limbopro.xyz/archives/11115.html （即已无需配置WorkingCopy或下载脚本zip文件就可使用脚本解锁各项会员特性）；
 ### 04.13.2020 
