@@ -115,6 +115,7 @@ https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.lis
 5. 确认，届时 QuantumultX 已添加 8个策略
 
 ### 第三步 生成并配置证书
+0. 如果再此之前已经生成并信任证书则 **生成并配置证书**这一步可选择忽略；
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [MitM] 模块 - 生成并配置证书📄 
 
@@ -127,9 +128,8 @@ https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.lis
 
 ### 第四步 订阅并为各个策略添加或删除节点
 1. 机场怎么订阅就不说了
-2. 进入 QuantumultX 主界面，可长按各个 **策略图标** 以 为该策略添加/减少节点；
+2. 进入 QuantumultX 主界面，可长按各个 **策略组对应图标** 以 为该策略添加/减少节点；
 3. 有红色感叹号❕标注的节点务必删除；
-
 
 ## Faq 
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
