@@ -94,7 +94,8 @@ https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.lis
 💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
-⚠️⚠️ 如果你的 Quantumult X 版本为最新 v1.0.14-build388 或之后版本则**第一步 ⏬ 下载 脚本仓库压缩包** 
+⚠️⚠️ 如果你的 Quantumult X 版本为最新 v1.0.14-build388 或之后版本 ，且使用 Quantumult X 已满90天则 **第一步 ⏬ 下载 脚本仓库压缩包**可选择跳过； 
+
 💡✅ **第一步  ⏬ 下载 脚本仓库**， 博主建议尽量使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，以方便以后更新（后期脚本仓库更新只需在在 WorkingCopy 内下拉即可更新），**如不想使用 WorkingCopy ，请继续看下文**；
 
 1. https://github.com/NobyDa/Script/archive/master.zip （*如删库可替换 NobyDa 为 limbopro，其他同理）
