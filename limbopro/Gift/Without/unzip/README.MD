@@ -6,8 +6,9 @@
 ## 更新说明 
 
 ### 10.06.2020 更新说明
-1. 更新 预配置文件中分流规则至 神机规则（更新中）；
-2. 更新 本预配置文件所引用到的仓库；
+1. 更新 预配置文件中分流规则至 **神机规则（更新中）**；
+2. 更新 **本预配置文件所引用到的仓库**；
+3. QuantumultX4limbopro.conf 文件中加入 `skip_validating_cert = true`，即日起重新下载本预配置文件（QuantumultX4limbopro.conf）无需再重新生成并信任证书；
 
 <details>
 <summary> 查看更多更新说明 </summary>
@@ -86,7 +87,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
 ```
 
-- **野比去广告（测试版）/ 野比(4W+)**默认禁用，可在 [分流] - [引用] - 左滑 [启用]；（请自行熟悉Quantumult X 操作界面）
+- **野比去广告**（**测试版**）/ **野比**(**4W+**) 由于其不稳定性默认是禁用的，可在 [分流] - [引用] - 左滑 [启用]；（请自行熟悉Quantumult X 操作界面）
 - GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 - GEOIP(CN)，用以弥补 `GEOIP,CN,DIRECT` 的不准确性；
 
