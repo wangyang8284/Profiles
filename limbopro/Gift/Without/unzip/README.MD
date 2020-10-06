@@ -71,7 +71,7 @@
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
-在 [配置] - [编辑] - [filter_remote] - 对应如下：（供参考）
+✅ 在 [配置] - [编辑] - [filter_remote] - 对应如下：（供参考）
 
 ```
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=野比去广告（稳定版）, force-policy=🛑 广告拦截, enabled=true
@@ -86,9 +86,9 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
 ```
 
-* 野比去广告（测试版）/ 野比(4W+)默认禁用，可在 [分流] - [引用] - 左滑 [启用]；（请自行熟悉Quantumult X 操作界面）
-* GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
-* GEOIP(CN)，用以弥补 `GEOIP,CN,DIRECT` 的不准确性；
+- **野比去广告（测试版）/ 野比(4W+)**默认禁用，可在 [分流] - [引用] - 左滑 [启用]；（请自行熟悉Quantumult X 操作界面）
+- GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
+- GEOIP(CN)，用以弥补 `GEOIP,CN,DIRECT` 的不准确性；
 
 ## 特殊情况
 ⚠️ 如果你已经正在使用 QuantumultX，并且**只想通过JS脚本解锁🔓相应事务**，无需遵循以下完整**具体操作**，则仅需执行其中两步即可：
