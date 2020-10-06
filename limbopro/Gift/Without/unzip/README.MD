@@ -9,6 +9,9 @@
 1. 更新 预配置文件中分流规则至 神机规则（更新中）；
 2. 更新 本预配置文件所引用到的仓库；
 
+<details>
+<summary> 查看更新说明 </summary>
+
 ### 08.08.2020 
 1. 更新 Tiktok 解锁规则； Tiktok 最新版本 v17.2.0 目前可解锁（依然；
 2. 如果你的微博看不了？请进入 Quantumult X - [配置文件] - 点击 [编辑]，找到 [rewrite_local] 下方的微博去广告，使用#号键注释掉微博去广告复写代码即可；
@@ -28,6 +31,9 @@
 2. 请重复一次教程 **第二步** 的操作，并重新配置证书📄；
 3. 然后进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] - 点击 [unzip Rewrite] 更新 
 4. 未来只需执行 该操作以及 重复 **教程第一步** 即可（届时会有更新说明），无须再重新配置证书📄；
+
+</details>
+
 
 ---
 
@@ -91,7 +97,13 @@ https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.lis
 5. 以上。
 
 ## 具体操作
+
+<details>
+<summary>视频教程</summary>
+
 💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
+
+</details>
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 ⚠️⚠️ 如果你的 Quantumult X 版本为最新 v1.0.14-build388 或之后版本 ，且使用 Quantumult X 已满90天则 **第一步 ⏬ 下载 脚本仓库压缩包**可选择跳过； 
