@@ -5,28 +5,28 @@
 
 ## 更新说明 
 
-### 10.06.2020
+### 10.06.2020 更新说明
 1. 更新 预配置文件中分流规则至 神机规则（更新中）；
 2. 更新 本预配置文件所引用到的仓库；
 
 <details>
-<summary> 查看更新说明 </summary>
+<summary> 查看更多更新说明 </summary>
 
-### 08.08.2020 
+### 08.08.2020 更新说明
 1. 更新 Tiktok 解锁规则； Tiktok 最新版本 v17.2.0 目前可解锁（依然；
 2. 如果你的微博看不了？请进入 Quantumult X - [配置文件] - 点击 [编辑]，找到 [rewrite_local] 下方的微博去广告，使用#号键注释掉微博去广告复写代码即可；
-### 07.01.2020 
+### 07.01.2020 更新说明
 1. Quantumult X 最新版本（v.1.0.12）已完全支持远程脚本，新朋友请直接参阅：https://limbopro.xyz/archives/11115.html （即已无需配置WorkingCopy或下载脚本zip文件就可使用脚本解锁各项会员特性）；
-### 04.13.2020 
+### 04.13.2020 更新说明
 想玩脚本签到的小伙伴可追踪 https://github.com/chavyleung/scripts ；
-### 04.12.2020
+### 04.12.2020 更新说明
 0. 重复教程 **第一步**，下载仓库最新的 **zip文件** 或使用 使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 同步最新仓库文件到手机📱 ；（⚠️再次下载⬇️ **zip文件📃** 前请先删除 [Script]文件夹📁内 已经解压的文件，因为 iPhone 文件没有覆盖这一说...； ）
 1. 然后进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] - 点击 [unzip适配版] 更新
 2. ⚠️第一次使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 同步最新仓库文件 ，亦需要清空 [Script] 内的所有文件；
 
-### 04.10.2020
+### 04.10.2020 更新说明
 0. 教程 **第一步** 中增加了使用 **workingcopy** 克隆GitHub仓库到手机📱本地的方法；
-### 04.09.2020
+### 04.09.2020 更新说明
 1. 本次更新已精简 [Rewrite_local] 配置，并引用了 unzip适配版的 Js.conf
 2. 请重复一次教程 **第二步** 的操作，并重新配置证书📄；
 3. 然后进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] - 点击 [unzip Rewrite] 更新 
@@ -41,6 +41,7 @@
 
 
 ![Quantumult x for limbopro][1]
+
 
 ## 毒奶预配置文件（unzip版）说明
 
@@ -71,6 +72,7 @@
 - **Final**： 排除以上已知的分流规则的其他未知；
 
 在 [配置] - [编辑] - [filter_remote] - 对应如下：（供参考）
+
 ```
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=野比去广告（稳定版）, force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list, tag=野比去广告（测试版）, force-policy=🛑 广告拦截, enabled=false
