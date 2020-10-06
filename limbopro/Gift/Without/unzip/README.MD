@@ -4,6 +4,11 @@
 2. 请务必关注 TG 电报频道：https://t.me/limboprossr 或 Twitter：https://twitter.com/limboprossr
 
 ## 更新说明 
+
+### 10.06.2020
+1. 更新 预配置文件中分流规则至 神机规则（更新中）；
+2. 更新 本预配置文件所引用到的仓库；
+
 ### 08.08.2020 
 1. 更新 Tiktok 解锁规则； Tiktok 最新版本 v17.2.0 目前可解锁（依然；
 2. 如果你的微博看不了？请进入 Quantumult X - [配置文件] - 点击 [编辑]，找到 [rewrite_local] 下方的微博去广告，使用#号键注释掉微博去广告复写代码即可；
@@ -41,7 +46,8 @@
 ## 本预配置文件所引用到的仓库
 0. 在此毒奶对大家的付出表示感谢
 1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
-2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则
+2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
+3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（更新中）
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
@@ -65,9 +71,9 @@ https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.li
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=false
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/GlobalMedia.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list, tag=大陆媒体, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=大陆媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=GEOIP(CN), enabled=true
 https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
 ```
