@@ -8,8 +8,7 @@
 ### 10.25.2020 更新说明
 1. 更新 预配置文件中分流规则至 **神机规则（更新中）**；
 2. 更新 **本预配置文件所引用到的仓库**；
-3. 新增毒奶去广告 [Rewrite] 跟 [filter]
-4. 参阅 https://t.me/limboprossr/1952 配置
+3. 新增毒奶去广告 [Rewrite] 跟 [filter]；参阅 https://t.me/limboprossr/1952 配置；可去除[奈菲影视][https://www.nfmovies.com/]/[低端影视][https://ddrk.me/]/[Jable.tv][https://jable.tv/]/[netflav][https://netflav.com/]/[片库网][https://m.pianku.me/]/[嘀哩哩网站广告][https://www.dililitv.com/]
 
 
 <details>
