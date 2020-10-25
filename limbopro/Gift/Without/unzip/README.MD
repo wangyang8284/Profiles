@@ -10,7 +10,7 @@
 2. 更新 **本预配置文件所引用到的仓库**；
 3. 新增毒奶去广告 [Rewrite] 跟 [filter]；参阅 https://t.me/limboprossr/1952 配置；
 
-*可去除[奈菲影视][https://www.nfmovies.com/]/[低端影视][https://ddrk.me/]/[Jable.tv][https://jable.tv/]/[netflav][https://netflav.com/]/[片库网][https://m.pianku.me/]/[嘀哩哩网站广告][https://www.dililitv.com/]
+可去除[奈菲影视](https://www.nfmovies.com/) /[低端影视](https://ddrk.me/)/[Jable.tv](https://jable.tv/)/[netflav](https://netflav.com)/[片库网](https://m.pianku.me/)/[嘀哩哩网站](https://www.dililitv.com/) 上的广告（内页广告以及片头广告）。
 
 
 <details>
