@@ -101,5 +101,5 @@ DOMAIN-SUFFIX,izclass,PROXY
 DOMAIN-KEYWORD,izclass,PROXY
 
 # Google Analytics
-DOMAIN-HOST,analysismobile-pa.googleapis.com,PROXY
+HOST,analyticsmobile-pa.googleapis.com,PROXY
 
