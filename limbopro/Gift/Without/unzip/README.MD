@@ -113,9 +113,9 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 <details>
-<summary>第一步操作前注意事项务必查看</summary>
+<summary>第一步操作前注意事项（务必查看）</summary>
   
-⚠️⚠️ 如果你的 Quantumult X 版本为最新 v1.0.14-build388 或之后版本 ，且使用 Quantumult X 已满30天则 **第一步 ⏬ 下载 脚本仓库压缩包**可选择跳过！！！； 
+⚠️⚠️ 如果你的 Quantumult X 版本为最新 v1.0.14-build388 或之后版本 ，且使用 Quantumult X 已满30天则 **第一步 ⏬ 下载 脚本仓库压缩包**可选择跳过！！！直接进行**第二步 ⏬ 下载 毒奶自用预配置文件（unzip版）**； 
 
 </details>
 
