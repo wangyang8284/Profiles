@@ -7,11 +7,13 @@
 1. Folk 来自神机规则，毒奶自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master (已停更) ；[DivineEngine](https://github.com/DivineEngine) (更新中)
 
-## Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）
+## 毒奶预配置文件
+
+**Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）**
 
 https://github.com/limbopro/Adblock4limbo
 
-### 毒奶预配置文件说明
+**毒奶预配置文件说明**
 
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
 1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
